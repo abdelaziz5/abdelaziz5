@@ -7,7 +7,7 @@ I am building my foundation in **Full-Stack Development** while keeping an eye o
 
 ### 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,python,qt,c,cpp,js,html,css,nodejs,npm,react,vite,mongodb,mysql,postman,visualstudio,vscode,pycharm,notion,obsidian,ps,pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,python,qt,c,cpp,js,html,css,nodejs,npm,react,vite,mongodb,mysql,postman,visualstudio,vscode,pycharm,notion,obsidian&theme=dark" />
 </p>
 
 ### 🛡️ Learning Path & Interests
